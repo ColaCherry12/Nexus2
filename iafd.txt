@@ -6,13 +6,15 @@ www.iafd.com##th.sorting:nth-of-type(5)
 www.iafd.com##th.sorting:nth-of-type(6)
 www.iafd.com##[style="padding-top: 1em;"]
 
-www.iafd.com###sceneinfo:has-text(Boz):upward(5)
 www.iafd.com##[alt="Headshot of Boz"]:upward(3)
-www.iafd.com###sceneinfo:has-text(Victor Ray):upward(5)
-www.iafd.com###sceneinfo:has-text(Bryan Gozzling):upward(5)
-
+www.iafd.com##[alt="Headshot of Codey Steele"]:upward(3)
 www.iafd.com##[alt="Headshot of Victor Ray"]:upward(3)
 www.iafd.com##[alt="Headshot of Bryan Gozzling"]:upward(3)
+
+www.iafd.com###sceneinfo:has-text(Boz):upward(5)
+www.iafd.com###sceneinfo:has-text(Codey Steele):upward(5)
+www.iafd.com###sceneinfo:has-text(Victor Ray):upward(5)
+www.iafd.com###sceneinfo:has-text(Bryan Gozzling):upward(5)
 
 www.iafd.com##div.castbox:has-text(Alberto Blanco)
 www.iafd.com##div.castbox:has-text(Justin Hunt)
