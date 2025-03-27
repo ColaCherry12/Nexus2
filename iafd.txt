@@ -6,6 +6,9 @@ www.iafd.com##th.sorting:nth-of-type(5)
 www.iafd.com##th.sorting:nth-of-type(6)
 www.iafd.com##[style="padding-top: 1em;"]
 
+www.iafd.com###sceneinfo:has-text(Boz):upward(5)
+www.iafd.com##[alt="Headshot of Boz"]:upward(3)
+
 www.iafd.com##div.castbox:has-text(Alberto Blanco)
 www.iafd.com##div.castbox:has-text(Justin Hunt)
 www.iafd.com##div.castbox:has-text(Tony Rubino)
