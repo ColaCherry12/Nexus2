@@ -1,4 +1,15 @@
 
+##.ycs-comment-block:has-text(thenormies):upward(1)
+##.ycs-comment-block:has-text(shadowkid0191):upward(1)
+##.ycs-comment-block:has-text(darkknightfan7520):upward(1)
+##.ycs-comment-block:has-text(rohailaamir9343):upward(1)
+##.ycs-comment-block:has-text(Vortexnicholas):upward(1)
+##.ycs-comment-block:has-text(tzuki6249):upward(1)
+##.ycs-comment-block:has-text(nfortin24):upward(1)
+##.ycs-comment-block:has-text(tko_5):upward(1)
+##.ycs-comment-block:has-text(EldenAshes):upward(1)
+##.ycs-comment-block:has-text(natani):upward(1)
+
 rule34.xxx##[alt~="adam_smasher"]:upward(2)
 rule34.xxx##[alt~="amazon_position"]:upward(2)
 rule34.xxx##[alt~="anal_birth"]:upward(2)
