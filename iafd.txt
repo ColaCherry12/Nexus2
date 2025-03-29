@@ -12,7 +12,7 @@ www.iafd.com##[alt="Headshot of Victor Ray"]:upward(3)
 www.iafd.com##[alt="Headshot of Bryan Gozzling"]:upward(3)
 
 www.iafd.com###sceneinfo:has-text(Boz):upward(5)
-www.iafd.com###sceneinfo:has-text(Codey Steele):upward(5)
+! www.iafd.com###sceneinfo:has-text(Codey Steele):upward(5)
 www.iafd.com###sceneinfo:has-text(Victor Ray):upward(5)
 www.iafd.com###sceneinfo:has-text(Bryan Gozzling):upward(5)
 
@@ -21,6 +21,7 @@ www.iafd.com##div.castbox:has-text(Justin Hunt)
 www.iafd.com##div.castbox:has-text(Tony Rubino)
 
 www.iafd.com##div.castbox:has-text(Aaliyah Hadid)
+www.iafd.com##div.castbox:has-text(Codey Steele)
 www.iafd.com##div.castbox:has-text(Aaron Rock)
 www.iafd.com##div.castbox:has-text(Abella Danger)
 www.iafd.com##div.castbox:has-text(Abigaiil Morris)
