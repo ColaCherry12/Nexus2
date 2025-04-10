@@ -1601,6 +1601,7 @@ rule34.xxx##[href="index.php?page=account&s=profile&uname=NTR-Fangirl"]:upward(2
 rule34.xxx##[href="index.php?page=account&s=profile&uname=Dayuum"]:upward(2)
 rule34.xxx##[href="index.php?page=account&s=profile&uname=Mahitottrr7"]:upward(2)
 rule34.xxx##[href="index.php?page=account&s=profile&uname=Caranthir"]:upward(2)
+rule34.xxx##[href="index.php?page=account&s=profile&uname=rohitratish"]:upward(2)
 
 rule34.xxx##[src="https://rule34.xxx/static/icame.png"]
 
