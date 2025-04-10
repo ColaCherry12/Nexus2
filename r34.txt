@@ -10,6 +10,7 @@
 ##.ycs-comment-block:has-text(EldenAshes):upward(1)
 ##.ycs-comment-block:has-text(natani):upward(1)
 
+rule34.xxx##[alt~="slugbox"]:upward(2)
 rule34.xxx##[alt~="velonix"]:upward(2)
 rule34.xxx##[alt~="mara_(cod)"]:upward(2)
 rule34.xxx##[alt~="ashtart"]:upward(2) 
