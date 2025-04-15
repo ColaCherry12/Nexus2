@@ -9,6 +9,16 @@
 ##.ycs-comment-block:has-text(tko_5):upward(1)
 ##.ycs-comment-block:has-text(EldenAshes):upward(1)
 ##.ycs-comment-block:has-text(natani):upward(1)
+##.ycs-comment-block:has-text(FromWhereWeWatch):upward(1)
+##.ycs-comment-block:has-text(zappiestmango6043):upward(1)
+##.ycs-comment-block:has-text(Slayer12349):upward(1)
+##.ycs-comment-block:has-text(Rabsaris96):upward(1)
+##.ycs-comment-block:has-text(Supreme3_D):upward(1)
+##.ycs-comment-block:has-text(terrorinthesky1):upward(1)
+##.ycs-comment-block:has-text(Empi3):upward(1)
+##.ycs-comment-block:has-text(Elegantfoxwasteland):upward(1)
+##.ycs-comment-block:has-text(PortalPuma):upward(1)
+##.ycs-comment-block:has-text(SenetTheSnek):upward(1)
 
 rule34.xxx###s13135032
 
