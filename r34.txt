@@ -22,6 +22,7 @@
 
 rule34.xxx###s13135032
 
+rule34.xxx##[alt~="iisfernado"]:upward(2)
 rule34.xxx##[alt~="captainexcelsior"]:upward(2)
 rule34.xxx##[alt~="yohana"]:upward(2)
 rule34.xxx##[alt~="pixiqueenie"]:upward(2)
@@ -1626,6 +1627,7 @@ rule34.xxx##[href="index.php?page=account&s=profile&uname=Caranthir"]:upward(2)
 rule34.xxx##[href="index.php?page=account&s=profile&uname=rohitratish"]:upward(2)
 rule34.xxx##[href="index.php?page=account&s=profile&uname=ThickBreedingCow"]:upward(2)
 rule34.xxx##[href="index.php?page=account&s=profile&uname=claynb3267"]:upward(2)
+rule34.xxx##[href="index.php?page=account&s=profile&uname=MissDemeanor"]:upward(2)
 
 rule34.xxx##[src="https://rule34.xxx/static/icame.png"]
 
