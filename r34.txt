@@ -22,6 +22,7 @@
 
 rule34.xxx###s13135032
 
+rule34.xxx##[alt~="argosornstein"]:upward(2)
 rule34.xxx##[alt~="darkxenssei"]:upward(2)
 rule34.xxx##[alt~="s0_underrated"]:upward(2)
 rule34.xxx##[alt~="slugbox"]:upward(2)
