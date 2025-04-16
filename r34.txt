@@ -22,6 +22,9 @@
 
 rule34.xxx###s13135032
 
+rule34.xxx##[alt~="kayriko"]:upward(2)
+rule34.xxx##[alt~="yatagarasupen"]:upward(2)
+! rule34.xxx##[alt~="magik_(marvel_rivals)"]:upward(2)
 rule34.xxx##[alt~="argosornstein"]:upward(2)
 rule34.xxx##[alt~="darkxenssei"]:upward(2)
 rule34.xxx##[alt~="s0_underrated"]:upward(2)
@@ -1619,6 +1622,7 @@ rule34.xxx##[href="index.php?page=account&s=profile&uname=Mahitottrr7"]:upward(2
 rule34.xxx##[href="index.php?page=account&s=profile&uname=Caranthir"]:upward(2)
 rule34.xxx##[href="index.php?page=account&s=profile&uname=rohitratish"]:upward(2)
 rule34.xxx##[href="index.php?page=account&s=profile&uname=ThickBreedingCow"]:upward(2)
+rule34.xxx##[href="index.php?page=account&s=profile&uname=claynb3267"]:upward(2)
 
 rule34.xxx##[src="https://rule34.xxx/static/icame.png"]
 
