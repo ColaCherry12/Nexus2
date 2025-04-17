@@ -1641,6 +1641,7 @@ rule34.xxx##[href="index.php?page=account&s=profile&uname=Les_Grossman"]:upward(
 rule34.xxx##[href="index.php?page=account&s=profile&uname=ComicBingus"]:upward(2)
 rule34.xxx##[href="index.php?page=account&s=profile&uname=DarthVader99"]:upward(2)
 rule34.xxx##[href="index.php?page=account&s=profile&uname=SragLCM"]:upward(2)
+rule34.xxx##[href="index.php?page=account&s=profile&uname=bbc4dafems"]:upward(2)
 
 rule34.xxx##[src="https://rule34.xxx/static/icame.png"]
 
