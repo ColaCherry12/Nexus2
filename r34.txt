@@ -19,6 +19,10 @@
 ##.ycs-comment-block:has-text(Elegantfoxwasteland):upward(1)
 ##.ycs-comment-block:has-text(PortalPuma):upward(1)
 ##.ycs-comment-block:has-text(SenetTheSnek):upward(1)
+##.ycs-comment-block:has-text(crashingcoyote):upward(1)
+##.ycs-comment-block:has-text(Meowtro):upward(1)
+##.ycs-comment-block:has-text(matt27113):upward(1)
+##.ycs-comment-block:has-text(iEngraved):upward(1)
 
 rule34.xxx###s13135032
 
