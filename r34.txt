@@ -23,6 +23,11 @@
 ##.ycs-comment-block:has-text(Meowtro):upward(1)
 ##.ycs-comment-block:has-text(matt27113):upward(1)
 ##.ycs-comment-block:has-text(iEngraved):upward(1)
+##.ycs-comment-block:has-text(TheActMan):upward(1)
+##.ycs-comment-block:has-text(kudowazzupman1878):upward(1)
+##.ycs-comment-block:has-text(JR-gq7rx):upward(1)
+##.ycs-comment-block:has-text(Pinhead64):upward(1)
+##.ycs-comment-block:has-text(901Cardinal):upward(1)
 
 rule34.xxx###s13135032
 
