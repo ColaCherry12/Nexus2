@@ -26,6 +26,8 @@
 
 rule34.xxx###s13135032
 
+rule34.xxx##[alt~="kyle_twilight"]:upward(2)
+rule34.xxx##[alt~="tawd"]:upward(2)
 rule34.xxx##[alt~="ravencat"]:upward(2)
 rule34.xxx##[alt~="Lildiglitty"]:upward(2)
 rule34.xxx##[alt~="virtual_yokai"]:upward(2)
