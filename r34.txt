@@ -31,8 +31,11 @@
 
 rule34.xxx###s13135032
 
+rule34.xxx##[alt~="liepraag"]:upward(2)
+rule34.xxx##[alt~="neophitebyte"]:upward(2)
+rule34.xxx##[alt~="spider-man"]:upward(2)
+rule34.xxx##[alt~="jeff_the_land_shark"]:upward(2)
 rule34.xxx##[alt~="veedeeshka"]:upward(2)
-rule34.xxx##[alt~="two_tone_hair"]:upward(2)
 rule34.xxx##[alt~="alexfrazer"]:upward(2)
 rule34.xxx##[alt~="kyle_twilight"]:upward(2)
 rule34.xxx##[alt~="tawd"]:upward(2)
@@ -1662,6 +1665,7 @@ rule34.xxx##[href="index.php?page=account&s=profile&uname=HATEANDLOVE"]:upward(2
 rule34.xxx##[href="index.php?page=account&s=profile&uname=LadyDevourer"]:upward(2)
 rule34.xxx##[href="index.php?page=account&s=profile&uname=Trynsa6"]:upward(2)
 rule34.xxx##[href="index.php?page=account&s=profile&uname=spaghettisauce"]:upward(2)
+rule34.xxx##[href="index.php?page=account&s=profile&uname=Lvna_sn0w"]:upward(2)
 
 rule34.xxx##[src="https://rule34.xxx/static/icame.png"]
 
