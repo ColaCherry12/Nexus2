@@ -1660,6 +1660,7 @@ rule34.xxx##[href="index.php?page=account&s=profile&uname=bimbopawg"]:upward(2)
 rule34.xxx##[href="index.php?page=account&s=profile&uname=HATEANDLOVE"]:upward(2)
 rule34.xxx##[href="index.php?page=account&s=profile&uname=LadyDevourer"]:upward(2)
 rule34.xxx##[href="index.php?page=account&s=profile&uname=Trynsa6"]:upward(2)
+rule34.xxx##[href="index.php?page=account&s=profile&uname=spaghettisauce"]:upward(2)
 
 rule34.xxx##[src="https://rule34.xxx/static/icame.png"]
 
