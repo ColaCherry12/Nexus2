@@ -12,6 +12,7 @@ www.iafd.com##a:has-text(Black Meat):upward(2)
 www.iafd.com##a:has-text(Flash Brown):upward(2)
 www.iafd.com##a:has-text(Brazzers):upward(2)
 www.iafd.com##a:has-text(jeshbyjesh):upward(2)
+www.iafd.com##a:has-text(Apollo Show):upward(2)
 
 www.iafd.com##[alt="Headshot of Boz"]:upward(3)
 www.iafd.com##[alt="Headshot of Codey Steele"]:upward(3)
