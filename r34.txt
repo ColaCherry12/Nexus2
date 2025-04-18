@@ -32,6 +32,7 @@
 rule34.xxx###s13135032
 rule34.xxx###s13179889
 
+rule34.xxx##[alt~="elferan"]:upward(2)
 rule34.xxx##[alt~="saveass"]:upward(2)
 rule34.xxx##[alt~="nagoonimation"]:upward(2)
 rule34.xxx##[alt~="cptpopcorn"]:upward(2)
