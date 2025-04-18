@@ -31,6 +31,8 @@
 
 rule34.xxx###s13135032
 
+rule34.xxx##[alt~="nagoonimation"]:upward(2)
+rule34.xxx##[alt~="cptpopcorn"]:upward(2)
 rule34.xxx##[alt*="luna_snow"]:upward(2)
 rule34.xxx##[alt~="zelhypno"]:upward(2)
 rule34.xxx##[alt~="kaa_eyes"]:upward(2)
@@ -1634,6 +1636,18 @@ bleachbooru.org##[data-tags~="virtamate"]
 bleachbooru.org##[data-tags*="volk"]
 bleachbooru.org##[data-tags~="vore"]
 bleachbooru.org##[data-tags*="xenom"]
+
+kemono.su##a:has-text(OrangeBurrito):upward(2)
+
+kemono.su##[href="/patreon/user/22057044"]
+kemono.su##[href="/gumroad/user/4013514009902"]
+kemono.su##[href="/patreon/user/35150295"]
+kemono.su##[href="/subscribestar/user/nagoonimation"]
+kemono.su##[href="/discord/server/713104024014159954"]
+kemono.su##[href="/patreon/user/3161935"]
+
+kemono.su##header:has-text(Jinx):upward(2)
+kemono.su##[download*="_B.png"]:upward(2)
 
 bleachbooru.org##[data-tags~="dartzai"]
 rule34.xxx##[alt~="dartzai"]:upward(2)
